@@ -1,8 +1,19 @@
 - 👋 Hi, I’m John
-- 👀 I’m interested in Software develop
+- 👀 I’m interested in Software develop and Data analysis
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- 📧 hjzinau@gmail.com
+
+
+
+
+
+
+
+
+
+
 
 <!---
 BLDMLT/BLDMLT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
