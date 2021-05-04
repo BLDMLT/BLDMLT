@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John
-- 😴 Nothing to say
+- 😴 Nothing to say, please contact me by Email~~
 - 📧 hjzinau@gmail.com
 - 🌈 www.linkedin.com/in/junzhe-huang
 
