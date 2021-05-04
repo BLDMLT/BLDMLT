@@ -1,8 +1,5 @@
 - 👋 Hi, I’m John
-- 👀 I’m interested in Software develop and Data analysis
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 😴 Nothing to say
 - 📧 hjzinau@gmail.com
 - 🌈 www.linkedin.com/in/junzhe-huang
 
