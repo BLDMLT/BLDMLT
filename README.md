@@ -4,8 +4,8 @@
 - 🌈 www.linkedin.com/in/junzhe-huang
 - [BLDMLT.github.io](https://bldmlt.github.io/)
 
-
-
+- Currently plan, add by person practice projects to this account (it is separate with my working account 😊)
+- Also, create a new web github.io page
 
 
 
